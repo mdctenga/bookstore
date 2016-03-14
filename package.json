@@ -1,0 +1,22 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "This will be a game where you buy books.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdctenga/bookstore"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdctenga/bookstore/issues"
+  },
+  "homepage": "https://github.com/mdctenga/bookstore",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
