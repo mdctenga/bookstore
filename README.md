@@ -4,6 +4,7 @@ This will be a game where you buy books.
 
 - bookstore has book
     1. Get access to Hawaii library stock (w/ quantity)
+        - Add this data to a database: https://dev.socrata.com/foundry/data.hawaii.gov/99kk-j8s8
     2. Render on the screen
 - player can buy books
     1. Search for a book
