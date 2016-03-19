@@ -4,7 +4,8 @@
   "description": "This will be a game where you buy books.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev" : "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "homepage": "https://github.com/mdctenga/bookstore",
   "dependencies": {
     "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.1"
   }
 }
