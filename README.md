@@ -1,5 +1,9 @@
 This will be a game where you buy books.
 
+## To run:
+
+- npm start
+
 # Features:
 
 - bookstore has book
